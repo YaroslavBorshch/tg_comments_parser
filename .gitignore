@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Environments
+venv/
+venv.bak/
+.env
+
+# PyCharm
+.idea/
+
+#storage
+storage/
+
+#tg_session
+my_account.session

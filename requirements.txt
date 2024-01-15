@@ -1,0 +1,15 @@
+sortedcontainers
+TgCrypto
+mysqlclient
+telethon
+pytelegrambotapi
+cryptg
+psycopg2
+
+
+Flask
+flask-wtf
+flask-sqlalchemy
+Flask-Migrate
+
+python-dotenv
